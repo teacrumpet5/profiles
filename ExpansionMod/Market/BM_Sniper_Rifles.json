@@ -1,0 +1,303 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SNIPER_RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": -1,
+    "Items": [
+        {
+            "ClassName": "BO_M200_Grey",
+            "MaxPriceThreshold": 650000,
+            "MinPriceThreshold": 650000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": [
+                "BO_M200_Black"
+            ]
+        },
+        {
+            "ClassName": "BO_AX50",
+            "MaxPriceThreshold": 800000,
+            "MinPriceThreshold": 800000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": [
+                "BO_AX50_Black",
+                "BO_AX50_RedTiger",
+                "BO_AX50_BlueTiger",
+                "BO_AX50_Fall"
+            ]
+        },
+        {
+            "ClassName": "BO_M300",
+            "MaxPriceThreshold": 650000,
+            "MinPriceThreshold": 650000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_R700Timberwolf",
+            "MaxPriceThreshold": 400000,
+            "MinPriceThreshold": 400000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_L96",
+            "MaxPriceThreshold": 420000,
+            "MinPriceThreshold": 420000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M96",
+            "MaxPriceThreshold": 800000,
+            "MinPriceThreshold": 800000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_SRSA2",
+            "MaxPriceThreshold": 420000,
+            "MinPriceThreshold": 420000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_T5000",
+            "MaxPriceThreshold": 420000,
+            "MinPriceThreshold": 420000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_Tac21",
+            "MaxPriceThreshold": 420000,
+            "MinPriceThreshold": 420000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_MRAD",
+            "MaxPriceThreshold": 420000,
+            "MinPriceThreshold": 420000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M82A1",
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": [
+                "BO_M82A1_Black",
+                "BO_M82A1_RedTiger",
+                "BO_M82A1_BlueTiger",
+                "BO_M82A1_GreenTiger",
+                "BO_M82A1_Desert",
+                "BO_M82A1_Snow"
+            ]
+        },
+        {
+            "ClassName": "BO_AlligatorSniper",
+            "MaxPriceThreshold": 1500000,
+            "MinPriceThreshold": 1500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_OSV",
+            "MaxPriceThreshold": 1750000,
+            "MinPriceThreshold": 1750000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_GM6Lynx",
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_SAKOTRG",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_SCAR20S",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_VSSK",
+            "MaxPriceThreshold": 850000,
+            "MinPriceThreshold": 850000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_AS50",
+            "MaxPriceThreshold": 850000,
+            "MinPriceThreshold": 850000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": [
+                "BO_AS50_Camo1",
+                "BO_AS50_Camo2",
+                "BO_AS50_Camo3",
+                "BO_AS50_Camo4",
+                "BO_AS50_RedTiger",
+                "BO_AS50_BlueTiger",
+                "BO_AS50_Fall"
+            ]
+        },
+        {
+            "ClassName": "BO_VSSK",
+            "MaxPriceThreshold": 850000,
+            "MinPriceThreshold": 850000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_PTRS41",
+            "MaxPriceThreshold": 3000000,
+            "MinPriceThreshold": 3000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M87R",
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-12_20-3-55
+====================================================================================
+20:3:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:3:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:3:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:3:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:3:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:3:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:3:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:3:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:3:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:3:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:3:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:3:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:3:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:3:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:3:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:3:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:3:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:3:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:3:55 | [PermissionManager] Adding Super Admin (76561199044127723)
+20:3:55 | [PermissionManager] Adding Super Admin (76561198138233493)
+20:3:55 | [PermissionManager] Adding Super Admin (76561199437572164)
+20:3:55 | [PermissionManager] Loaded UserGroups.json
+20:3:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:3:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:3:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:3:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:3:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:3:55 | Building Sets Loaded: 1
+20:3:55 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+20:3:55 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:7:37 | Player "TouchyPriest" (steamId=76561199438093895) connected to server!
+20:7:40 | Player "AgentSmi7h" (steamId=76561198045837007) connected to server!
+20:7:46 | Player "TEACRUMPET5" (steamId=76561199437572164) connected to server!
+20:9:24 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:9:25 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:9:28 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:9:35 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<12170.400391, 140.000000, 12497.900391>)
+20:9:35 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=12170.4,0,12497.9)
+20:9:45 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:9:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<12011.775391, 140.000000, 12640.976563>)
+20:10:8 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:10:10 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:10:13 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<12057.451172, 163.749985, 12578.447266>)
+20:10:13 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:10:21 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HM_Airplane_Cardrop)
+20:10:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HM_Airplane_Cardrop)
+20:10:28 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HM_Airplane_Cardrop" (pos=<12054.443359, 168.934128, 12443.420898>)
+20:10:37 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HM_Car_Drop_Container)
+20:10:40 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<12023.033203, 140.000031, 12563.572266>)
+20:10:49 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:10:50 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:11:27 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<12028.097656, 140.000031, 12552.795898>)
+20:11:56 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M134)
+20:11:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:11:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:11:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:11:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:12:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:12:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:12:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:12:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:12:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M134_250rnd)
+20:12:8 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<12051.490234, 139.999985, 12545.009766>)
+20:12:34 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HM_Airplane_Cardrop)
+20:12:39 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:12:44 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HM_Airplane_Cardrop" (pos=<12082.669922, 145.184143, 12015.895508>)
+20:12:48 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HM_Car_Drop_Container" (pos=<12015.786133, 140.154388, 12560.014648>)
+20:12:54 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "ChevroletCorvette" (pos=<12087.022461, 139.943893, 12554.570313>)
+20:12:54 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:13:7 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HM_Car_Drop_Container)
+20:13:16 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BRDM_Doors_Driver" (pos=<12051.560547, 141.608704, 12541.048828>)
+20:13:18 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BRDM" (pos=<12051.862305, 140.401917, 12539.983398>)
+20:13:43 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<4830.410156, 339.893585, 9007.580078>)
+20:13:43 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=4830.41,0,9007.58)
+20:13:48 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:13:49 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:13:54 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4829.216309, 339.189117, 9042.023438>)
+20:13:54 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4821.670410, 338.987518, 9034.663086>)
+20:13:54 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4814.264648, 338.765808, 9027.501953>)
+20:13:54 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4808.962402, 338.566406, 9022.366211>)
+20:13:54 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4805.585938, 338.450256, 9019.101563>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4798.044922, 338.196838, 9011.821289>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4789.726074, 337.721436, 9003.767578>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4782.891113, 337.578217, 8997.154297>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4781.221680, 337.497864, 8995.465820>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4773.461914, 336.765198, 8987.875000>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4766.918945, 336.140198, 8981.418945>)
+20:13:55 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4763.790527, 335.778900, 8978.302734>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4755.296387, 334.571838, 8969.871094>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4747.383789, 333.809662, 8962.332031>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4741.239258, 333.658661, 8957.415039>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4730.655762, 333.167603, 8948.019531>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4722.948730, 332.564026, 8941.520508>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4644.606445, 326.280151, 8875.750000>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4597.338379, 323.821960, 8830.264648>)
+20:13:56 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4593.163574, 323.833069, 8821.270508>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4583.625977, 324.530670, 8812.602539>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4578.268555, 325.311981, 8806.577148>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4572.805176, 326.020721, 8801.210938>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4564.014648, 326.729340, 8791.333984>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4380.112305, 319.537842, 8592.229492>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4477.196777, 320.863220, 8696.862305>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4393.617188, 319.782166, 8606.387695>)
+20:13:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4383.752930, 319.640594, 8596.597656>)
+20:13:58 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4373.574707, 319.381378, 8586.615234>)
+20:13:58 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4362.893555, 319.019745, 8576.201172>)
+20:13:58 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4351.176758, 318.446198, 8564.731445>)
+20:13:58 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4351.275879, 318.449768, 8564.762695>)
+20:13:58 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4338.562988, 317.663757, 8552.081055>)
+20:14:0 | Player "KobbAndy" (steamId=76561197966388745) connected to server!
+20:14:16 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Heliblack_hawk_SIB)
+20:14:17 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:14:17 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:14:17 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:14:18 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:14:18 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:15:50 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:15:51 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+20:16:3 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Heliblack_hawk_SIB" (pos=<5024.146484, 484.195007, 10575.868164>)
+20:16:17 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4859.847168, 338.402069, 10488.617188>)
+20:16:18 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4850.354492, 338.392548, 10485.457031>)
+20:16:18 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4843.149414, 338.788177, 10483.092773>)
+20:16:18 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4837.356934, 339.470642, 10481.139648>)
+20:16:18 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4838.382324, 339.758240, 10481.965820>)
+20:16:18 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4834.111816, 339.043640, 10479.336914>)
+20:16:18 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4832.033203, 338.986511, 10478.764648>)
+20:16:19 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4817.530762, 339.059967, 10470.958984>)
+20:16:19 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4814.846680, 340.411163, 10469.660156>)
+20:16:19 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4813.108398, 341.648651, 10469.164063>)
+20:16:20 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4788.549316, 339.034821, 10456.937500>)
+20:16:21 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:16:31 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:16:47 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:16:57 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:18:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4796.987793, 339.040009, 10437.916016>)
+20:18:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4797.098145, 339.040009, 10430.450195>)
+20:18:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4797.164551, 339.040009, 10428.801758>)
+20:18:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4796.835938, 339.040009, 10418.993164>)
+20:18:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4800.520020, 341.833496, 10408.758789>)
+20:18:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5698.264160, 475.557495, 9806.087891>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4827.120605, 339.039978, 10397.294922>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4833.381836, 339.040009, 10393.896484>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4833.038574, 339.040009, 10393.122070>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4839.476074, 339.042664, 10386.315430>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4848.808594, 339.060028, 10369.888672>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5163.819336, 422.793915, 9340.134766>)
+20:18:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4851.293945, 340.810791, 10361.542969>)
+20:18:49 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5167.821289, 796.112183, 8432.720703>)
+20:18:49 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5188.999512, 1205.455811, 7413.029297>)
+20:19:3 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:19:5 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:19:9 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:19:17 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5127.811523, 339.398010, 7622.883301>)
+20:19:19 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:19:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5537.356445, 518.357666, 8671.438477>)
+20:19:50 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5290.557617, 356.995911, 8304.518555>)
+20:19:57 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:20:14 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5193.484863, 339.313324, 7833.220703>)
+20:20:16 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:20:29 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mercedes_S900_Brabus)
+20:20:31 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:20:31 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:20:31 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+20:20:51 | Player "TouchyPriest" (steamId=76561199438093895) initiated disconnect process...
+20:21:6 | Player "TouchyPriest" (steamId=76561199438093895) disconnected from server.
+20:21:9 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:21:11 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5111.005859, 345.980316, 8011.747070>)
+20:21:12 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:21:29 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_STANAG_60Rnd)
+20:22:37 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Mercedes_S900_Brabus" (pos=<5117.657227, 346.297485, 8011.956543>)
+20:22:39 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:22:57 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4559.229004, 317.789673, 8282.158203>)
+20:23:10 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4570.019531, 318.079163, 8361.918945>)
+20:23:12 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:23:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_AlligatorSniper)
+20:23:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_AlligatorSniper_5rnd)
+20:23:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_AlligatorSniper_5rnd)
+20:23:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_AlligatorSniper_5rnd)
+20:23:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_AlligatorSniper_5rnd)
+20:23:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_AlligatorSniper_5rnd)
+20:23:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (SurvivorM_Guo)
+20:24:12 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4556.604004, 317.990021, 8352.446289>)
+20:24:12 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4560.150879, 317.990021, 8360.360352>)
+20:24:13 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4563.766113, 317.889587, 8368.248047>)
+20:24:13 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4566.652832, 318.130280, 8374.226563>)
+20:24:23 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:24:27 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4512.367188, 324.858582, 8266.147461>)
+20:24:27 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:24:35 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_helmet_green_alpha)
+20:24:42 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Pants_Blue)
+20:24:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Jacket_Blue)
+20:24:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Pants_Blue)
+20:24:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Pants_Blue)
+20:24:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Pants_Blue)
+20:24:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Pants_Blue)
+20:24:55 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Vest_Blue)
+20:24:59 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_InvisibilityHead)
+20:25:0 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_gloves)
+20:25:4 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Boots_Camo185)
+20:25:37 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Helm_Green_Steel)
+20:25:40 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Pants_Green_Steel)
+20:25:43 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Jacket_Green_Steel)
+20:25:44 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Blacks_Armor_Vest_Green_Steel)
+20:26:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (SurvivorM_Manua)
+20:27:36 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:27:42 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:27:44 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:27:52 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:28:38 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Land_Mil_Barracks5" (pos=<4517.417480, 321.513672, 8268.978516>)
+20:28:53 | "TEACRUMPET5" (steamid=76561199437572164) deleted objects using ESP
+20:28:55 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "SurvivorM_Manua" (pos=<4509.222168, 324.791779, 8270.820313>)
+20:28:57 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:29:57 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:30:2 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:30:11 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<1424.865112, 311.289551, 9297.480469>)
+20:30:23 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<1419.110107, 308.315002, 9267.108398>)
+20:30:23 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:30:38 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (DNA_KeyCard_Purple)
+20:31:0 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "DNA_Strongroom_Purple" (pos=<1426.884155, 314.701324, 9255.048828>)
+20:31:1 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "DNA_StorageProxy_Purple" (pos=<1424.092407, 309.526886, 9251.709961>)
+20:31:2 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:31:4 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+20:31:8 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<4781.209961, 338.994934, 10397.799805>)
+20:31:8 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=4781.21,0,10397.8)
+20:31:14 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (DNA_KeyCard_Red)
+20:31:55 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "DNA_Strongroom_Red" (pos=<4797.106445, 344.403992, 10371.065430>)
+20:32:3 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Land_Airfield_ServiceHangar_R" (pos=<4794.817871, 339.074921, 10378.351563>)
+20:32:4 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Land_Airfield_ServiceHangar_R" (pos=<4794.817871, 339.074921, 10378.351563>)
+20:32:12 | "TEACRUMPET5" (steamid=76561199437572164) deleted objects using ESP
+20:33:22 | Player "Ludamor" (steamId=76561198076779623) connected to server!
+20:37:31 | Player "TEACRUMPET5" (steamId=76561199437572164) initiated disconnect process...

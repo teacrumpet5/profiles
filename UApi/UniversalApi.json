@@ -1,0 +1,9 @@
+{
+    "ConfigVersion": "1",
+    "ServerURL": "https://45.146.255.56/",
+    "ServerID": "Chernaurus",
+    "ServerAuth": "Lmh5dIi6G.dob9iBfkWtqFub.!2TpwUKS-AjgLGgZOc38Qb9",
+    "QnAEnabled": 0,
+    "EnableBuiltinLogging": 0,
+    "PromptDiscordOnConnect": 0
+}

@@ -1,0 +1,203 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Black Market Assault Rifles and LMG's",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "BO_M1918",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M1941",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        
+        {
+            "ClassName": "BO_SCARH_Black",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": ["BO_SCARH_Tan "]
+        },        
+        {
+            "ClassName": "BO_M1918",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        
+        {
+            "ClassName": "BO_Stoner63A",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        {
+            "ClassName": "BO_M60",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },       
+        {
+            "ClassName": "BO_M240B",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        
+        {
+            "ClassName": "BO_MG42",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        {
+            "ClassName": "BO_ARX160",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        
+        {
+            "ClassName": "BO_FG42M",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },        
+        {
+            "ClassName": "BO_PKP_Black",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_PKPScopeMount_FDE"
+            ],
+            "Variants": ["BO_PKP_FDE"]
+        }, 
+        {
+            "ClassName": "BO_FG42",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_PKPScopeMount_FDE"
+            ],
+            "Variants": []
+        },        
+        {
+            "ClassName": "BO_Beowulf",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_FedorovAvtomat",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_M249",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        }
+    ]
+}

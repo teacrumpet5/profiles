@@ -1,0 +1,18 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Drugs Trader",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Drugs",
+        "Processing_Equipment"
+    ],
+    "Items": {
+    }
+}

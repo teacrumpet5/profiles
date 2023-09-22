@@ -1,0 +1,171 @@
+{
+    "m_Version": 18,
+    "VehicleSync": 0,
+    "VehicleRequireKeyToStart": 1,
+    "VehicleRequireAllDoors": 1,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 0,
+    "MasterKeyPairingMode": 2,
+    "MasterKeyUses": 2,
+    "CanPickLock": 0,
+    "PickLockTools": [
+        "Lockpick"
+    ],
+    "PickLockChancePercent": 50.0,
+    "PickLockTimeSeconds": 300,
+    "PickLockToolDamagePercent": 100.0,
+    "EnableWindAerodynamics": 0,
+    "EnableTailRotorDamage": 1,
+    "Towing": 1,
+    "EnableHelicopterExplosions": 0,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 1.0,
+    "VehicleSpeedDamageMultiplier": 1.0,
+    "VehicleRoadKillDamageMultiplier": 1.0,
+    "CollisionDamageIfEngineOff": 0,
+    "CollisionDamageMinSpeedKmh": 30.0,
+    "CanChangeLock": 1,
+    "ChangeLockTools": [
+        "Screwdriver"
+    ],
+    "ChangeLockTimeSeconds": 120,
+    "ChangeLockToolDamagePercent": 50.0,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "RevvingOverMaxRPMRuinsEngineInstantly": 0,
+    "VehicleDropsRuinedDoors": 1,
+    "ExplodingVehicleDropsAttachments": 1,
+    "DesyncInvulnerabilityTimeoutSeconds": 3.0,
+    "DamagedEngineStartupChancePercent": 100.0,
+    "EnableVehicleCovers": 1,
+    "AllowCoveringDEVehicles": 1,
+    "CanCoverWithCargo": 1,
+    "UseVirtualStorageForCoverCargo": 1,
+    "VehicleAutoCoverTimeSeconds": 0.0,
+    "VehicleAutoCoverRequireCamonet": 0,
+    "EnableAutoCoveringDEVehicles": 0,
+    "CFToolsHeliCoverIconName": "helicopter",
+    "CFToolsBoatCoverIconName": "ship",
+    "CFToolsCarCoverIconName": "car",
+    "VehiclesConfig": [
+        {
+            "ClassName": "BZKheli_Galaxy_MH6",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "BZKheli_MH6",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Heli_USA",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliMH6_SIB_Corrugated",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_Egyptian",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliMH6_SIB_vipskull",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_Japan",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_SKULL",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_Vietnam",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Helipolice_flames",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "BZKheli_MH6",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Heli_USA",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Helipolice_urban",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Helipolice_green",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Helipolice_raid",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_airforce",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_iron",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliSIB_UH1D_navy",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Heliblack_hawk_SIB",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Heliblack_hawk_SIB_camo",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliMI17_SIB",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "HeliMH6_SIB",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Heliec135_SIB",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Heliec135_SIB_hell",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        }
+    ]
+}

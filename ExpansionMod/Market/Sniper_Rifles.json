@@ -1,0 +1,36 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SNIPER_RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": -1,
+    "Items": [
+        {
+            "ClassName": "BO_SVT40",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_DVL10M1",
+            "MaxPriceThreshold": 420000,
+            "MinPriceThreshold": 420000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        }
+    ]
+}

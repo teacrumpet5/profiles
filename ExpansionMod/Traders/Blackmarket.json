@@ -1,0 +1,25 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Blackmarket",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [      
+        "BM_Ammo_Boxes", 
+        "Ammo_Boxes",
+        "BM_Assault_Rifles_And_LMG'S",
+        "BM_Sniper_Rifles",
+        "BM_Muzzles",      
+        "Magazines",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,536 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-15_18-44-52
+====================================================================================
+18:44:52 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+18:44:52 | [PermissionManager] Perm (FreeCamera) has been registered!
+18:44:52 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuItemManager) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuServerManager) has been registered!
+18:44:52 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+18:44:52 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+18:44:52 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+18:44:52 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+18:44:52 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+18:44:52 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+18:44:52 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+18:44:52 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+18:44:52 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+18:44:52 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuBansManager) has been registered!
+18:44:52 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+18:44:52 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+18:44:52 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+18:44:52 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+18:44:52 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+18:44:52 | [PermissionManager] Adding Super Admin (76561199044127723)
+18:44:52 | [PermissionManager] Adding Super Admin (76561198138233493)
+18:44:52 | [PermissionManager] Adding Super Admin (76561199437572164)
+18:44:52 | [PermissionManager] Loaded UserGroups.json
+18:44:52 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+18:44:52 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+18:44:52 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+18:44:52 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+18:44:52 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+18:44:52 | Building Sets Loaded: 1
+18:44:52 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+18:44:52 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+18:48:27 | Player "Esposito" (steamId=76561197991298405) connected to server!
+19:3:34 | Player "TEACRUMPET5" (steamId=76561199437572164) connected to server!
+19:3:44 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:3:48 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:4:6 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<4267.180176, 341.692444, 10778.500000>)
+19:4:6 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=4267.18,0,10778.5)
+19:4:34 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:4:38 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:5:5 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:5:7 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4248.654785, 341.676086, 10800.407227>)
+19:5:7 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4246.553711, 342.031494, 10806.404297>)
+19:5:7 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4239.767090, 342.210022, 10825.961914>)
+19:5:7 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4222.356445, 338.999969, 10875.728516>)
+19:5:8 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4216.791992, 339.000000, 10891.944336>)
+19:5:8 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4217.036133, 339.000000, 10891.411133>)
+19:5:8 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4211.716797, 339.000000, 10907.100586>)
+19:5:8 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4211.598145, 339.000000, 10907.660156>)
+19:5:8 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4208.183594, 338.985901, 10920.585938>)
+19:5:9 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4208.021973, 338.971558, 10921.183594>)
+19:5:9 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4203.617676, 338.449646, 10937.987305>)
+19:5:9 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4200.403320, 338.504333, 10950.258789>)
+19:5:9 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4198.444336, 338.574036, 10957.899414>)
+19:5:9 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4195.743652, 338.653137, 10968.400391>)
+19:6:16 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:6:18 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BBP_Workbench" (pos=<4181.185059, 339.343689, 10994.905273>)
+19:7:10 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:7:44 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3961.042969, 333.876862, 11100.373047>)
+19:7:46 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:8:15 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "eAI_SurvivorM_Guo" (pos=<3960.131592, 333.707306, 11094.811523>)
+19:8:17 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "eAI_SurvivorM_Lewis" (pos=<3961.365234, 333.789886, 11096.550781>)
+19:8:18 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "eAI_SurvivorM_Guo" (pos=<3961.989746, 333.823578, 11096.947266>)
+19:8:20 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_M200_Grey" (pos=<3961.132324, 333.905975, 11096.231445>)
+19:8:22 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_M200_Grey" (pos=<3960.524902, 333.837616, 11094.123047>)
+19:10:2 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:10:9 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4193.379395, 338.402039, 10993.435547>)
+19:10:9 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:12:12 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<4068.810059, 369.941040, 11645.299805>)
+19:12:12 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=4068.81,0,11645.3)
+19:12:15 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4053.882080, 369.902618, 11630.263672>)
+19:12:16 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4046.698242, 369.869995, 11624.240234>)
+19:16:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:26 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:16:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionBanknoteHryvnia)
+19:17:25 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:17:25 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:20:27 | Player "BEARCLAW" (steamId=76561198828347325) connected to server!
+19:25:5 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "eAI_SurvivorM_Seth" (pos=<3506.108643, 342.965515, 6472.240723>)
+19:25:20 | [WeatherManager] Send Data Count is 0
+19:25:27 | [Time Manager] Setting Date to 2023/9/21 10:12
+19:26:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliMH6_SIB_vipskull)
+19:26:37 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliMH6_SIB_Corrugated)
+19:26:46 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Heliec135_SIB)
+19:26:52 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Heliblack_hawk_SIB_camo)
+19:27:10 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_airforce)
+19:27:15 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_navy)
+19:27:19 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_iron)
+19:27:29 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_Blood)
+19:27:38 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HelicopterSIB_UH1D_EGYPTIAN)
+19:27:51 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_Japan)
+19:28:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HelicopterSIB_UH1D_SKULL)
+19:28:8 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_Vietnam)
+19:28:18 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_flames)
+19:28:21 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:28:25 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_flames" (pos=<3482.264160, 344.769257, 6455.982422>)
+19:28:28 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_flames)
+19:28:35 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_flames" (pos=<3484.789551, 344.878296, 6451.806152>)
+19:28:45 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_flames)
+19:28:51 | Player "BEARCLAW" (steamId=76561198828347325) initiated disconnect process...
+19:28:53 | Player "BEARCLAW" (steamId=76561198828347325) disconnected early from server (EXIT NOW).
+19:29:0 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:29:3 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:29:6 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_Gold)
+19:29:9 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:29:13 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_green)
+19:29:14 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:29:19 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_raid)
+19:29:25 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:29:25 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:29:31 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Helipolice_urban)
+19:29:38 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_taxi)
+19:29:39 | Player "BEARCLAW" (steamId=76561198828347325) connected to server!
+19:29:42 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_camo)
+19:29:58 | "TEACRUMPET5" (steamid=76561199437572164) /refuel used on self.
+19:30:20 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HiveStaticHeli)
+19:30:45 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (HeliSIB_UH1D_medic)
+19:30:48 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BZKheli_Galaxy_MH6)
+19:30:55 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ZombieZone_Heli)
+19:32:29 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3481.827148, 344.875366, 6452.683105>)
+19:32:29 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3479.221680, 344.844147, 6462.575195>)
+19:32:29 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3478.599121, 344.908264, 6464.928223>)
+19:32:29 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3475.989990, 344.488098, 6475.048340>)
+19:32:30 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3473.287354, 343.291351, 6485.763672>)
+19:32:30 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3472.487305, 341.704620, 6501.303223>)
+19:32:30 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3471.734375, 338.979309, 6522.120117>)
+19:32:30 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3471.372803, 339.143646, 6529.772461>)
+19:32:30 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3471.132568, 339.377441, 6534.845703>)
+19:32:30 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3470.862305, 340.168549, 6539.775879>)
+19:32:31 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3470.527100, 340.275116, 6547.846680>)
+19:32:39 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "IMP_Bag_CamelBag_EMR" (pos=<3480.452637, 339.784241, 6550.760254>)
+19:34:38 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:36:32 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:41:13 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HelicopterSIB_UH1D_EGYPTIAN" (pos=<3500.120117, 339.270752, 6517.974121>)
+19:41:15 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "SIBUH1D_Door_1_2_Blood" (pos=<3499.993408, 342.860321, 6501.842773>)
+19:41:17 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Heliblack_hawk_SIB_camo" (pos=<3506.106445, 342.244965, 6488.828125>)
+19:41:20 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:41:21 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:41:26 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_Japan" (pos=<3490.285889, 341.346252, 6499.406250>)
+19:41:29 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HelicopterSIB_UH1D_SKULL" (pos=<3485.321045, 344.039246, 6475.747559>)
+19:41:30 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_Gold" (pos=<3476.610107, 344.824463, 6461.084473>)
+19:41:32 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_green" (pos=<3469.069092, 344.609344, 6469.028320>)
+19:41:34 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_raid" (pos=<3474.152832, 345.946472, 6442.751953>)
+19:41:37 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HiveStaticHeli" (pos=<3481.281982, 347.941620, 6430.884277>)
+19:41:39 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_flames" (pos=<3486.858887, 344.614075, 6458.850098>)
+19:41:42 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Helipolice_urban" (pos=<3491.952148, 345.121490, 6436.515137>)
+19:41:44 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_Vietnam" (pos=<3496.057373, 344.074921, 6462.178711>)
+19:41:47 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Heliec135_SIB" (pos=<3499.304932, 342.969604, 6479.587891>)
+19:41:52 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_taxi" (pos=<3509.750732, 344.941345, 6447.998535>)
+19:41:55 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliMH6_SIB_fire" (pos=<3504.268311, 343.299652, 6469.990234>)
+19:41:57 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:42:1 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_airforce" (pos=<3528.647461, 341.847321, 6485.339355>)
+19:42:5 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_navy" (pos=<3528.350586, 340.638336, 6497.976563>)
+19:43:7 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_iron" (pos=<3513.835693, 339.895844, 6503.093750>)
+19:43:10 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "SIBUH1D_Door_2_1_Blood" (pos=<3502.164551, 342.308533, 6503.847168>)
+19:43:13 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_Blood" (pos=<3501.137939, 341.252350, 6500.960449>)
+19:43:16 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliMH6_SIB_Corrugated" (pos=<3509.816895, 342.340363, 6480.350098>)
+19:43:18 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliMH6_SIB_vipskull" (pos=<3507.792480, 342.855438, 6474.390137>)
+19:43:20 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_camo" (pos=<3500.167480, 344.822784, 6445.075195>)
+19:43:24 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "ZombieZone_Heli" (pos=<3498.790527, 345.689514, 6422.685059>)
+19:43:27 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BZKheli_Galaxy_MH6" (pos=<3493.014648, 345.943268, 6416.874512>)
+19:43:28 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "HeliSIB_UH1D_medic" (pos=<3485.645996, 346.020416, 6415.628418>)
+19:43:54 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3685.164551, 411.001678, 5987.444336>)
+19:43:55 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:45:33 | Player "TEACRUMPET5" (steamId=76561199437572164) initiated disconnect process...
+19:52:51 | Player "Esposito" (steamId=76561197991298405) initiated disconnect process...
+19:52:54 | Player "Esposito" (steamId=76561197991298405) disconnected early from server (EXIT NOW).
+19:53:6 | Player "Esposito" (steamId=76561197991298405) disconnected from server.
+20:1:38 | Player "ratnik" (steamId=76561198312328426) connected to server!
+20:24:16 | Player "Esposito" (steamId=76561197991298405) connected to server!
+20:24:25 | Player "AgentSmi7h" (steamId=76561198045837007) connected to server!
+20:27:48 | Player "GodChurch55" (steamId=76561199013725197) connected to server!
+20:28:40 | "GodChurch55" (steamid=76561199013725197) toggled godmode
+20:28:51 | "GodChurch55" (steamid=76561199013725197) just updated a health stat on (steamid=76561199013725197)
+20:28:53 | "GodChurch55" (steamid=76561199013725197) just updated a health stat on (steamid=76561199013725197)
+20:28:53 | "GodChurch55" (steamid=76561199013725197) just updated a health stat on (steamid=76561199013725197)
+20:29:20 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1660.041260, 451.780365, 14088.458008>)
+20:29:21 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1680.880737, 451.730011, 14084.558594>)
+20:31:13 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (Audi_RS6_black)
+20:31:50 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (DNA_KeyCard_Green)
+20:32:5 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (DNA_KeyCard_Green_Inactive)
+20:32:30 | "GodChurch55" (steamid=76561199013725197) deleted object "DNA_KeyCard_Green" (pos=<1685.976074, 451.734711, 14087.958984>)
+20:32:47 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (TT_Collectables_Tea)
+20:34:7 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (Ammo_308Win)
+20:34:7 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (Ammo_308Win)
+20:34:7 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (Ammo_308Win)
+20:37:42 | "GodChurch55" (steamid=76561199013725197) Spawned Item: (BO_AX50)
+20:38:35 | Player "GodChurch55" (steamId=76561199013725197) initiated disconnect process...
+20:38:36 | Player "GodChurch55" (steamId=76561199013725197) aborted logout process [canceledLogout]
+20:38:36 | Player "GodChurch55" (steamId=76561199013725197) aborted logout process [canceledLogout]
+20:43:52 | "76561199013725197" (steamid=76561199013725197) teleported to (pos=<6908.680176, 405.534882, 11393.099609>)
+20:43:52 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=6908.68,0,11393.1)
+20:44:0 | "GodChurch55" (steamid=76561199013725197) toggled freecam
+20:44:8 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<6885.839844, 423.387970, 11468.217773>)
+20:44:12 | "GodChurch55" (steamid=76561199013725197) toggled freecam
+20:45:11 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM)
+20:45:31 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<6884.716797, 423.387970, 11465.133789>)
+20:46:15 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM)
+20:46:26 | Player "Boyka" (steamId=76561198030271509) connected to server!
+20:47:29 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BMM)
+20:48:14 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM)
+20:48:26 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<6892.387695, 423.387970, 11464.748047>)
+20:49:16 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=Black Market)
+20:49:42 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM)
+20:49:54 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BMM)
+20:50:6 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM)
+20:50:20 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM))
+20:50:41 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=BM)
+20:51:1 | "76561199013725197" (steamid=76561199013725197) teleported to (pos=<3728.330078, 401.766479, 6009.189941>)
+20:51:1 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=3728.33,0,6009.19)
+20:52:14 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=GM SafeZone)
+20:52:31 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=GM Safe Zone)
+20:52:53 | "GodChurch55" (steamid=76561199013725197) just updated a health stat on (steamid=76561199013725197)
+20:52:54 | "GodChurch55" (steamid=76561199013725197) just updated a health stat on (steamid=76561199013725197)
+20:53:22 | "76561199013725197" (steamid=76561199013725197) teleported to (pos=<14026.900391, 22.179842, 2917.379883>)
+20:53:22 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=14026.9,0,2917.38)
+20:53:53 | "GodChurch55" (steamid=76561199013725197) toggled freecam
+20:54:20 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14106.184570, 9.913415, 2685.710693>)
+20:54:25 | "GodChurch55" (steamid=76561199013725197) toggled freecam
+20:55:31 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=Collectables)
+20:55:42 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14112.865234, 7.773123, 2644.643799>)
+20:55:42 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14114.995117, 7.690456, 2625.617188>)
+20:55:43 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14116.413086, 7.690454, 2611.889648>)
+20:55:44 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14116.285156, 8.550176, 2608.303223>)
+20:55:45 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14116.524414, 8.483557, 2606.178955>)
+20:55:45 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<14116.873047, 8.483557, 2601.781250>)
+20:56:7 | "76561199013725197" (steamid=76561199013725197) teleported to (pos=<1803.959961, 436.165405, 13811.599609>)
+20:56:7 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=1803.96,0,13811.6)
+20:56:33 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1786.116333, 438.500793, 13832.522461>)
+20:56:33 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1779.471558, 439.787048, 13840.315430>)
+20:56:33 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1774.442383, 440.678986, 13845.942383>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1769.176270, 441.570313, 13851.746094>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1769.100708, 441.583771, 13851.827148>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1769.024170, 441.597107, 13851.906250>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1768.952026, 441.609619, 13851.982422>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1768.876099, 441.623016, 13852.061523>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1767.940674, 441.744598, 13853.094727>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1765.562988, 441.963287, 13855.717773>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1763.910400, 442.115295, 13857.539063>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1763.763916, 442.128448, 13857.693359>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1763.664673, 442.137329, 13857.796875>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1763.624512, 442.140930, 13857.836914>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1762.938965, 442.203888, 13858.592773>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1761.929688, 442.484344, 13859.730469>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1760.084717, 442.526794, 13861.748047>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1759.225342, 442.624603, 13862.694336>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1758.721802, 442.681824, 13863.248047>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1758.607422, 442.694733, 13863.369141>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1758.366455, 442.722015, 13863.630859>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1757.937622, 442.770660, 13864.097656>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1757.125732, 442.863007, 13864.990234>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1755.541748, 443.043427, 13866.744141>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1754.620728, 443.145996, 13867.758789>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1754.056885, 443.209961, 13868.374023>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1753.635254, 443.257324, 13868.824219>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1753.511963, 443.270508, 13868.940430>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1753.141968, 443.312592, 13869.346680>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1752.424805, 443.394379, 13870.157227>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1751.404053, 443.510590, 13871.310547>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1749.936401, 443.677612, 13872.966797>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1748.924805, 443.793091, 13874.119141>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1748.818848, 443.805664, 13874.253906>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1748.601440, 443.830750, 13874.509766>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1748.199097, 443.876556, 13874.963867>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1747.403442, 443.970490, 13875.880859>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1745.720581, 444.140594, 13877.831055>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1744.614258, 444.252808, 13879.126953>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1744.446289, 444.270905, 13879.349609>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1744.117676, 444.305450, 13879.765625>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1744.030640, 444.480194, 13879.922852>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1742.641235, 444.458221, 13881.564453>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1741.264771, 444.621857, 13883.195313>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1740.413330, 444.744690, 13884.235352>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1740.305298, 444.763763, 13884.416016>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1739.898560, 444.823334, 13884.927734>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1739.021118, 444.943573, 13885.945313>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1738.144531, 445.068695, 13887.031250>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1737.118896, 445.223328, 13888.410156>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1736.448364, 445.324280, 13889.311523>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1736.363159, 445.337524, 13889.433594>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1736.072021, 445.381165, 13889.821289>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1735.414307, 445.465637, 13890.680664>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1734.519165, 445.574707, 13891.823242>)
+20:56:34 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1733.091919, 445.746857, 13893.614258>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1732.170776, 445.854126, 13894.764648>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1732.116455, 445.859711, 13894.827148>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1732.071289, 445.864380, 13894.877930>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1732.015503, 445.870209, 13894.941406>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1731.823975, 445.892334, 13895.202148>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1731.373047, 445.945557, 13895.833984>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1730.511475, 446.043152, 13896.967773>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1728.605103, 446.237061, 13899.398438>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1727.844727, 446.311890, 13900.356445>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1727.384155, 446.356598, 13900.921875>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1726.935913, 446.400543, 13901.483398>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1726.621582, 446.431946, 13901.888672>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1726.387939, 446.454865, 13902.180664>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1726.309326, 446.461823, 13902.263672>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1725.426025, 446.548309, 13903.365234>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1723.277710, 446.728851, 13906.065430>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1722.280640, 446.801941, 13907.283203>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1722.256714, 446.801331, 13907.246094>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1722.041992, 446.815857, 13907.474609>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1721.622803, 446.846954, 13907.996094>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1721.189453, 446.878967, 13908.531250>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1720.706177, 446.914551, 13909.125977>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1719.747925, 446.984955, 13910.300781>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1718.203857, 447.098785, 13912.190430>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1717.140381, 447.171661, 13913.490234>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1717.039429, 447.178131, 13913.611328>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1716.814453, 447.192139, 13913.871094>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1716.346558, 447.221191, 13914.404297>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1716.085449, 447.237488, 13914.705078>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1716.010376, 447.242340, 13914.796875>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1715.305298, 447.287750, 13915.654297>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1713.923706, 447.376923, 13917.334961>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1713.055298, 447.433044, 13918.390625>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1712.986206, 447.437378, 13918.472656>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1712.703979, 447.455597, 13918.814453>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1712.022583, 447.499420, 13919.638672>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1711.636719, 447.770203, 13920.138672>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1711.700073, 448.355988, 13920.144531>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1707.967041, 447.724365, 13924.513672>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1707.870483, 447.729309, 13924.626953>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1707.635498, 447.741547, 13924.909180>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1707.089355, 447.770203, 13925.567383>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1706.747192, 447.787994, 13925.973633>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1706.723022, 447.788849, 13925.990234>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1706.231567, 447.814301, 13926.568359>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1704.948975, 447.874542, 13928.090820>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1703.858521, 447.917267, 13929.383789>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1702.793457, 447.959290, 13930.661133>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1702.505371, 447.970917, 13931.017578>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1702.372803, 447.978943, 13931.194336>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1702.230347, 448.080811, 13931.396484>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1701.260498, 448.045166, 13932.538086>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1700.317505, 448.100922, 13933.646484>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1699.113525, 448.170929, 13935.036133>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1698.404541, 448.198364, 13935.857422>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1698.388550, 448.198914, 13935.883789>)
+20:56:35 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1702.303467, 448.065613, 13931.602539>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.831787, 448.297821, 13938.956055>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.806763, 448.298828, 13938.977539>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.753662, 448.300842, 13939.041016>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.694702, 448.303070, 13939.108398>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.635376, 448.305328, 13939.170898>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.932007, 448.293884, 13938.867188>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1696.695313, 448.264374, 13938.086914>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1695.960083, 448.292877, 13938.977539>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1692.766479, 448.331635, 13942.592773>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1690.652222, 448.373077, 13944.985352>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1690.564575, 448.374481, 13945.069336>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1690.586914, 448.373657, 13945.019531>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1690.732544, 448.370209, 13944.818359>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1690.224243, 448.379913, 13945.380859>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1688.680420, 448.410645, 13947.154297>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1687.381592, 448.438232, 13948.609375>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1685.978149, 448.491882, 13950.098633>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1685.615967, 448.504333, 13950.454102>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1685.554688, 448.505859, 13950.476563>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1685.464722, 448.508209, 13950.514648>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1685.376709, 448.510620, 13950.555664>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1684.802368, 448.531128, 13951.167969>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1683.422852, 448.581757, 13952.739258>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1682.225098, 448.625092, 13954.058594>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1681.344116, 448.655731, 13954.956055>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1680.731445, 448.677216, 13955.582031>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1680.648560, 448.680084, 13955.668945>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1680.473877, 448.686035, 13955.828125>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1680.160400, 448.696014, 13956.089844>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1679.275513, 448.736816, 13956.999023>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1677.593506, 448.830048, 13958.815430>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1676.635986, 448.885345, 13959.849609>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1676.558472, 448.889771, 13959.928711>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1676.337158, 448.901917, 13960.139648>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1676.001343, 448.920135, 13960.448242>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1675.779785, 448.932220, 13960.656250>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1675.706055, 448.936371, 13960.731445>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1674.918701, 448.981293, 13961.554688>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1673.024780, 449.089386, 13963.539063>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1671.967529, 449.171783, 13964.648438>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1671.873169, 449.181061, 13964.745117>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1671.732422, 449.194519, 13964.875977>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1671.440796, 449.220215, 13965.136719>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1671.093994, 449.248383, 13965.426758>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1670.693970, 449.280701, 13965.735352>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1669.885376, 449.347260, 13966.499023>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1668.423584, 449.468353, 13967.998047>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1667.519531, 449.543274, 13968.917969>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1667.428345, 449.550598, 13968.991211>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1667.297363, 449.561310, 13969.101563>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1667.120239, 449.575775, 13969.257813>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1666.709229, 449.609375, 13969.620117>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1665.949341, 449.671387, 13970.284180>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1665.060425, 449.744507, 13971.122070>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1663.824829, 449.854584, 13972.375000>)
+20:56:36 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1663.036499, 449.931396, 13973.173828>)
+20:56:37 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1655.763306, 450.575439, 13979.942383>)
+20:56:38 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1649.514282, 451.006042, 13985.726563>)
+20:56:38 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1643.932373, 451.353058, 13990.908203>)
+20:56:38 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1638.590820, 451.597931, 13995.912109>)
+20:57:0 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1627.315552, 451.972656, 14004.770508>)
+20:57:0 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1618.248413, 452.061951, 13991.436523>)
+20:57:0 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1608.480835, 452.021362, 13975.917969>)
+20:57:1 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1598.932983, 452.030823, 13959.537109>)
+20:57:1 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1593.941162, 452.025757, 13948.312500>)
+20:57:2 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1594.952148, 451.971375, 13939.477539>)
+20:57:2 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1595.119507, 451.929047, 13931.554688>)
+20:57:2 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1594.614624, 452.738190, 13926.717773>)
+20:57:3 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1592.276001, 451.850800, 13917.284180>)
+20:57:3 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1589.824707, 451.647400, 13909.791992>)
+20:57:4 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1587.966797, 451.987030, 13903.522461>)
+20:57:4 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1586.025757, 452.847107, 13898.369141>)
+20:57:5 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1582.821167, 453.440460, 13891.939453>)
+20:57:5 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<1579.542847, 453.486084, 13887.164063>)
+20:57:39 | "76561199013725197" (steamid=76561199013725197) teleported to (pos=<4085.500000, 371.866516, 11672.799805>)
+20:57:39 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=4085.5,0,11672.8)
+20:57:47 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<4066.435059, 369.922607, 11646.810547>)
+20:57:48 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<4060.897217, 369.919586, 11637.362305>)
+20:57:48 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<4056.395996, 369.907288, 11631.905273>)
+20:57:49 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<4051.564209, 369.886749, 11627.427734>)
+20:57:49 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<4046.968750, 369.869965, 11623.492188>)
+20:57:49 | "GodChurch55" (steamid=76561199013725197) teleported to crosshair (pos=<4041.761475, 369.863098, 11618.374023>)
+20:58:38 | "GodChurch55": (steamid=76561199013725197) teleported to (pos=Heli Trader)
+20:59:19 | Player "Boyka" (steamId=76561198030271509) initiated disconnect process...
+20:59:20 | Player "Boyka" (steamId=76561198030271509) disconnected early from server (EXIT NOW).
+21:0:33 | Player "GodChurch55" (steamId=76561199013725197) initiated disconnect process...
+21:0:34 | Player "GodChurch55" (steamId=76561199013725197) disconnected early from server (EXIT NOW).
+21:21:23 | Player "KobbAndy" (steamId=76561197966388745) connected to server!
+21:55:33 | Player "AgentSmi7h" (steamId=76561198045837007) initiated disconnect process...
+21:55:35 | Player "AgentSmi7h" (steamId=76561198045837007) disconnected early from server (EXIT NOW).
+21:57:20 | Player "BEARCLAW" (steamId=76561198828347325) initiated disconnect process...
+21:59:26 | Player "Esposito" (steamId=76561197991298405) initiated disconnect process...
+21:59:26 | Player "KobbAndy" (steamId=76561197966388745) initiated disconnect process...
+21:59:26 | Player "ratnik" (steamId=76561198312328426) initiated disconnect process...

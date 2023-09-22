@@ -1,0 +1,50 @@
+
+
+******************************************************************************
+AdminLog started on 2023-09-22 at 10:01:42
+10:03:30 | [MapLink][INFO] On Mission Start World: chernarusplus Server: Chernaurus
+10:06:13 | [MapLink][INFO] [MAPLINK] Init
+10:06:48 | Player "AgentSmi7h" is connected (id=4LlfqG-oeab4CyevEwaDHGmr-yxqRPfNpoOV4I4_o8M=)
+10:10:51 | Player "Paulie Walnuts" is connected (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=)
+10:17:00 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [T1] Large Floor using Hatchet LOCATION:<13043.718750, 58.478035, 7127.118164>
+10:17:06 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [Frame] Large Floor using Hatchet LOCATION:<13043.718750, 58.478035, 7127.118164>
+10:45:43 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [T1] Slope Roof using Hatchet LOCATION:<13038.585938, 60.162388, 7123.562988>
+10:45:48 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [Frame] Slope Roof using Hatchet LOCATION:<13038.536133, 60.164669, 7123.510742>
+10:46:07 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [T1] Large Roof using Hatchet LOCATION:<13044.209961, 61.205238, 7124.552246>
+10:46:13 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [Frame] Large Roof using Hatchet LOCATION:<13044.209961, 61.205173, 7124.553223>
+10:48:17 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [T1] Slope Roof using Hatchet LOCATION:<13049.082031, 60.186230, 7127.089844>
+10:48:22 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [Frame] Slope Roof using Hatchet LOCATION:<13049.068359, 60.184517, 7127.089844>
+10:53:49 | Player "Paulie Walnuts"(id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=) has been disconnected
+11:09:48 | [BBP] 'AgentSmi7h' (76561198045837007) DISMANTLED [Frame] Small Door using Hatchet LOCATION:<13039.216797, 38.966545, 7169.979004>
+11:26:08 | Player "AgentSmi7h"(id=4LlfqG-oeab4CyevEwaDHGmr-yxqRPfNpoOV4I4_o8M=) has been disconnected
+11:35:35 | Player "Paulie Walnuts" is connected (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=)
+12:03:06 | Player "Fitz" is connected (id=pe1jtdl2qQ4HyXzJ_sGv3HUfngYVmWFiRiyYAX6Hjng=)
+12:15:10 | [BBP] 'Paulie Walnuts' (76561199245796665) DISMANTLED [T1] Large Door using Hatchet LOCATION:<3213.633789, 311.643097, 7770.540039>
+12:15:16 | [BBP] 'Paulie Walnuts' (76561199245796665) DISMANTLED [T1] Large Door using Hatchet LOCATION:<3213.634521, 311.643097, 7770.540527>
+12:15:22 | [BBP] 'Paulie Walnuts' (76561199245796665) DISMANTLED [Frame] Large Door using Hatchet LOCATION:<3213.635254, 311.643097, 7770.541016>
+12:19:06 | [Chat - Global]("Fitz"(id=pe1jtdl2qQ4HyXzJ_sGv3HUfngYVmWFiRiyYAX6Hjng=)): hows it going paulie 
+12:26:25 | Player "Fitz"(id=pe1jtdl2qQ4HyXzJ_sGv3HUfngYVmWFiRiyYAX6Hjng=) has been disconnected
+12:53:37 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4437.8, 9392.4, 333.0>)[HP: 99.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+12:53:38 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4437.8, 9392.4, 333.0>)[HP: 97.688] hit by Infected into Torso(1) for 1.5895 damage (MeleeSoldierInfectedLong)
+12:54:05 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4418.7, 9423.8, 335.3>)[HP: 97.27] hit by Infected into Torso(1) for 1.22825 damage (MeleeSoldierInfected)
+12:54:16 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4418.7, 9423.8, 335.3>)[HP: 96.4019] hit by Infected into Torso(1) for 1.22825 damage (MeleeSoldierInfected)
+12:55:46 | Player "Paulie Walnuts"(id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=) has been disconnected
+12:59:00 | Player "Paulie Walnuts" is connected (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=)
+12:59:50 | Player "Paulie Walnuts"(id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=) has been disconnected
+13:03:06 | Player "Paulie Walnuts" is connected (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=)
+13:04:49 | Player "Paulie Walnuts"(id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=) has been disconnected
+13:11:46 | Player "Paulie Walnuts" is connected (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c=)
+13:28:07 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4638.7, 10430.2, 339.3>)[HP: 99.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+13:28:08 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4638.7, 10430.2, 339.9>)[HP: 97.5613] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+13:39:08 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4634.6, 10464.2, 339.4>)[HP: 99.2775] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+13:39:14 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4643.4, 10463.6, 339.0>)[HP: 98.2294] hit by Infected into Torso(1) for 1.22825 damage (MeleeSoldierInfected)
+13:39:16 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4642.6, 10468, 339.0>)[HP: 97.7669] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:39:17 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4640.3, 10469.2, 339.0>)[HP: 97.0444] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+13:39:20 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4643.3, 10465.1, 339.0>)[HP: 96.4119] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+13:39:21 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4643.4, 10465.1, 339.0>)[HP: 94.9125] hit by Infected into Torso(1) for 1.5895 damage (MeleeSoldierInfectedLong)
+13:39:26 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4641.3, 10463.7, 339.0>)[HP: 93.1962] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+13:39:39 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4644.4, 10455.8, 339.0>)[HP: 92.4182] hit by Infected into Torso(1) for 1.22825 damage (MeleeSoldierInfected)
+13:39:40 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4646.2, 10454.6, 339.0>)[HP: 90.6119] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+13:42:43 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4633.1, 10465, 339.0>)[HP: 94.2975] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+13:42:51 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4632.8, 10479.3, 339.0>)[HP: 93.755] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+13:42:52 | Player "Paulie Walnuts" (id=XcMNSZ8aaYbD1gn62FyBWgA6NOQmGQHwJbDMkoFx92c= pos=<4630.9, 10480, 339.0>)[HP: 92.0388] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)

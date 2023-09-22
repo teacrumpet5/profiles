@@ -1,0 +1,17 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Collectables",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Collectables"
+    ],
+    "Items": {
+    }
+}

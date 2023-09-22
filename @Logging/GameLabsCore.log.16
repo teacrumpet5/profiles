@@ -1,0 +1,4 @@
+************************** 2023-09-21T01:03:30+00:00 **************************
+2023-09-21T01:03:54+00:00 | [ERROR	] 
+2023-09-21T01:04:00+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2023-09-21T01:07:17+00:00 | [INFO	] (Core) Attempting graceful exit

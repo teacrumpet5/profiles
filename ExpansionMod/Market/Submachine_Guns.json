@@ -1,0 +1,168 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SUBMACHINE_GUNS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": -1,
+    "Items": [
+        {
+            "ClassName": "BO_PPSh",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_Thompson",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_UZI",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_AKS74U",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 7000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_EVO3A1",
+            "MaxPriceThreshold": 6800,
+            "MinPriceThreshold": 6800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_EVO_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_MP5SDA2",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": [
+                "BO_MP5SDA2_FDE"
+            ]
+        },
+        {
+            "ClassName": "BO_MP5MPA2",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": [
+                "BO_MP5MPA2_FDE"
+            ]
+        },
+        {
+            "ClassName": "BO_MP7",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_MP7_40rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_MP9",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_MP9_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_PP1901",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_PP1901_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_PP2000",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_PP2000_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_UMP45",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        }
+    ]
+}

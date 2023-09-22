@@ -1,0 +1,533 @@
+{
+    "lootSets": [
+        {
+            "name": "AX50",
+            "items": [
+                {
+                    "name": "BO_AX50_Black",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "BO_Mag_AX50_5rnd",
+                            "quantity": 20,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables1",
+            "items": [
+                {
+                    "name": "Collectable_Bitcoin",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables2",
+            "items": [
+                {
+                    "name": "Collectable_GPU",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables3",
+            "items": [
+                {
+                    "name": "Collectable_SSD",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables4",
+            "items": [
+                {
+                    "name": "Collectable_USB",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables5",
+            "items": [
+                {
+                    "name": "Collectable_SmartPhone",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables6",
+            "items": [
+                {
+                    "name": "Collectable_MemoryCard",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables7",
+            "items": [
+                {
+                    "name": "Collectable_TetrisToy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Collectables8",
+            "items": [
+                {
+                    "name": "Collectable_Intel",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "cbs1",
+            "items": [
+                {
+                    "name": "CP_CannabisSeedsPackBlackFrost",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "cbs2",
+            "items": [
+                {
+                    "name": "CP_CannabisSeedsPackFuture",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "raid1",
+            "items": [
+                {
+                    "name": "HackingTablet",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "raid1",
+            "items": [
+                {
+                    "name": "HackingBattery",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "M200",
+            "items": [
+                {
+                    "name": "BO_M200_Grey",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "BO_Mag_M200_7rnd",
+                            "quantity": 7,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "M300",
+            "items": [
+                {
+                    "name": "BO_M300",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "BO_Mag_M300_7rnd",
+                            "quantity": 7,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "M82",
+            "items": [
+                {
+                    "name": "BO_M82A1",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "BO_Mag_M82A1_10rnd",
+                            "quantity": 7,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "BO_BarrettM82Suppressor",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "AS50",
+            "items": [
+                {
+                    "name": "BO_AS50_Camo1",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "BO_Mag_AS50_10rnd",
+                            "quantity": 7,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "BO_BarrettM82Suppressor",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "BO_AlligatorSniper",
+            "items": [
+                {
+                    "name": "BO_AlligatorSniper",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "BO_Mag_AlligatorSniper_5rnd",
+                            "quantity": 7,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "bomb_suit",
+            "items": [
+                {
+                    "name": "IMP_Helmet_BombHelm",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "IMP_Pants_BombPants_Green",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "IMP_Vest_BombVest_Green",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "bomb_suittan",
+            "items": [
+                {
+                    "name": "IMP_Helmet_BombHelm",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "IMP_Pants_BombPants_Tan",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "IMP_Vest_BombVest_Tan",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "HaloSuit",
+            "items": [
+                {
+                    "name": "Blacks_Armor_helmet_green_alpha",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "IMP_Pants_BombPants_Tan",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "IMP_Vest_BombVest_Tan",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Ammo Pouch",
+            "items": [
+                {
+                    "name": "PlateCarrierPouches",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": [
+                        {
+                            "name": "AE_AmmoBox_127x99_10rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_127x99_10rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_127x99_10rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_338_20rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_338_20rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_338_20rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_408_20rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AE_AmmoBox_408_20rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LoadedPlate",
+            "items": [
+                {
+                    "name": "IMP_Vest_6B45_Black",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "PlateCarrierHolster",
+                            "quantity": -1,
+                            "attachments": [
+                                {
+                                    "name": "FNX45",
+                                    "quantity": -1,
+                                    "attachments": [
+                                        {
+                                            "name": "PistolSuppressor",
+                                            "quantity": -1,
+                                            "attachments": [],
+                                            "cargo": []
+                                        },
+                                        {
+                                            "name": "Mag_FNX45_15Rnd",
+                                            "quantity": -1,
+                                            "attachments": [],
+                                            "cargo": []
+                                        },
+                                        {
+                                            "name": "FNP45_MRDSOptic",
+                                            "quantity": -1,
+                                            "attachments": [
+                                                {
+                                                    "name": "Battery9v",
+                                                    "quantity": -1,
+                                                    "attachments": [],
+                                                    "cargo": []
+                                                }
+                                            ],
+                                            "cargo": []
+                                        }
+                                    ],
+                                    "cargo": []
+                                }
+                            ],
+                            "cargo": []
+                        },
+                        {
+                            "name": "PlateCarrierPouches",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "BO_Mag_M200_7rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "BO_Mag_M200_7rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "BO_Mag_AlligatorSniper_5rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "BO_Mag_AlligatorSniper_5rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "BO_Mag_M82A1_10rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M18SmokeGrenade_Red",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "M18SmokeGrenade_Green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "M18SmokeGrenade_Purple",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "M18SmokeGrenade_White",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}

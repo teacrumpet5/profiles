@@ -1,0 +1,128 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_PISTOLS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "BO_RagingBull",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                ""
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_Beretta",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BO_Beretta_Desert"
+            ]
+        },
+        {
+            "ClassName": "BO_DesertEagle",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+			    "BO_DesertEagle_BlackSky",
+				"BO_DesertEagle_Gold"
+			]
+        },
+        {
+            "ClassName": "BO_FiveSeven",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_FiveSeven_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_Glock18C",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_Glock18C_17rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_Glock26",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_Glock26_10rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "BO_Makarov",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "BO_Mag_Makarov_12rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "engraved1911",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_1911_7rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_m9",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_expansion_m9_15rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}

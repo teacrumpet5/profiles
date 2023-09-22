@@ -1,0 +1,201 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MASKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "IMP_GP7M2_Mask",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_M04Mask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_RSH4Mask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_M79Mask_Black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_M79Mask_Blue",
+                "IMP_M79Mask_Green",
+                "IMP_M79Mask_Yellow"
+            ]
+        },
+        {
+            "ClassName": "IMP_Mask_TacticalMask_Green",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Mask_TacticalMask_Black",
+                "IMP_Mask_TacticalMask_Tan",
+                "IMP_Mask_TacticalMask_UCP",
+                "IMP_Mask_TacticalMask_EMR",
+                "IMP_Mask_TacticalMask_NWU",
+                "IMP_Mask_TacticalMask_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Mask_Balaclava_Black",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Mask_Balaclava_Green",
+                "IMP_Mask_Balaclava_Desert",
+                "IMP_Mask_Balaclava_Skull",
+                "IMP_Mask_Balaclava_Wolf",
+                "IMP_Mask_Balaclava_EMR",
+                "IMP_Mask_Balaclava_UCP",
+                "IMP_Mask_Balaclava_NWU",
+                "IMP_Mask_Balaclava_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "balaclavamask_green",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "balaclava3holes_beige",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "balaclava3holes_blue",
+                "balaclava3holes_black",
+                "balaclava3holes_green"
+            ]
+        },
+        {
+            "ClassName": "balaclava3holes_black",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "balaclava3holes_green",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "weldingmask",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gasmask",
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gp5gasmask",
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "airbornemask",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mimemask_female",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mimemask_female"
+            ]
+        }
+    ]
+}

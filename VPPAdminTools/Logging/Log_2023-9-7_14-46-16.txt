@@ -1,0 +1,209 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-7_14-46-16
+====================================================================================
+14:46:16 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+14:46:16 | [PermissionManager] Perm (FreeCamera) has been registered!
+14:46:16 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuItemManager) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuServerManager) has been registered!
+14:46:16 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+14:46:16 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+14:46:16 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+14:46:16 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+14:46:16 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+14:46:16 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+14:46:16 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+14:46:16 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+14:46:16 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+14:46:16 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuBansManager) has been registered!
+14:46:16 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+14:46:16 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+14:46:16 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+14:46:16 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+14:46:16 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+14:46:16 | [PermissionManager] Adding Super Admin (76561199044127723)
+14:46:16 | [PermissionManager] Adding Super Admin (76561198138233493)
+14:46:16 | [PermissionManager] Adding Super Admin (76561199437572164)
+14:46:16 | [PermissionManager] Loaded UserGroups.json
+14:46:16 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+14:46:16 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+14:46:16 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+14:46:16 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+14:46:16 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+14:46:16 | Building Sets Loaded: 0
+14:46:16 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+14:46:16 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+14:49:39 | Player "TEACRUMPET5" (steamId=76561199437572164) connected to server!
+14:49:47 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+14:49:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_SCARH_Black)
+14:50:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_SCARL_Tan)
+14:50:19 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_300WinMag_Suppressor_FDE)
+14:50:25 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_LegionSuppressor_Tan)
+14:51:45 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_LegionSuppressor_Tan" (pos=<10039.951172, 28.125910, 2125.407227>)
+14:51:52 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_STANAG_60Rnd)
+14:51:52 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_STANAG_60Rnd)
+14:52:6 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Land_Tenement_Small" (pos=<10047.920898, 18.413311, 2124.784424>)
+14:52:10 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Mag_STANAG_60Rnd" (pos=<10039.855469, 28.282898, 2125.408447>)
+14:52:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_R700)
+14:52:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_R700Timberwolf)
+14:53:8 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_SVD)
+14:53:9 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (SVD_Orange)
+14:53:9 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (SVD_White)
+14:53:12 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (SVD_Clean)
+14:53:34 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_SVD)
+14:53:45 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_SVD_10Rnd)
+14:54:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_SOPMODBttstck_FDE)
+14:54:43 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (PSO1Optic)
+14:55:4 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_CorduraSuppressor_Black)
+14:55:6 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_OspreySuppressor_FDE)
+14:55:7 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_HarvesterSuppressor)
+14:55:15 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_LegionSuppressor)
+14:55:20 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_300WinMag_Suppressor_Black)
+14:55:21 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_300WinMag_Suppressor_FDE)
+14:55:22 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ImprovisedSuppressor)
+14:55:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (M4_Suppressor)
+14:55:23 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (AK_Suppressor)
+14:55:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (PistolSuppressor)
+14:56:22 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_SVD" (pos=<10046.833008, 28.135939, 2126.808838>)
+14:56:55 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_SOPMODBttstck_FDE" (pos=<10047.323242, 28.128662, 2127.950928>)
+14:57:31 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_ACR_Black)
+14:57:34 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_ACR17S)
+14:58:3 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_STANAG_60Rnd)
+14:58:17 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_STANAG_60Rnd)
+14:59:41 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_ACR_Black" (pos=<10040.864258, 28.130920, 2115.925049>)
+14:59:55 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_U100)
+14:59:56 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_U100_100rnd)
+15:0:31 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_LegionSuppressor_Black)
+15:3:1 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Stoner63A)
+15:3:2 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_Stoner63_150rnd)
+15:5:8 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_T5000)
+15:5:9 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_T5000_5rnd)
+15:5:28 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+15:5:40 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<10305.948242, 0.256927, 1312.864502>)
+15:5:42 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+15:5:47 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+15:5:51 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<10141.640625, 0.233719, 1246.026245>)
+15:5:51 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+15:5:56 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+15:6:5 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<10171.600586, 6.009998, 1620.807983>)
+15:6:8 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+15:7:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_300WinMag_Suppressor_Black)
+15:7:24 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_300WinMag_Suppressor_FDE)
+15:7:28 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_CS5_Suppressor)
+15:7:29 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_TheFix_Suppressor)
+15:7:30 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_MCXTacops_Suppressor_QD)
+15:7:30 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_MCXTacops_Suppressor_MODX)
+15:7:31 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_MCXSpear_Suppressor)
+15:7:31 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_TacticalSuppressor)
+15:7:32 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_CorduraSuppressor_Black)
+15:7:33 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_LegionSuppressor)
+15:7:35 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_MK23_Suppressor)
+15:7:35 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_HarvesterSuppressor)
+15:10:13 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Tac21)
+15:10:14 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_Tac21_5rnd)
+15:12:35 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_HKG28)
+15:12:36 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_HKG28_20rnd)
+15:12:36 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_HKG28_20rnd)
+15:12:36 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_HKG28_20rnd)
+15:12:36 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_HKG28_20rnd)
+15:12:58 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_CorduraSuppressor_Black)
+15:12:59 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_LegionSuppressor_Tan)
+15:16:38 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Mag_AK74_45Rnd)
+15:16:45 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_AN94)
+15:16:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_HAMROptic)
+15:16:58 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (ExpansionHAMROptic)
+15:17:6 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_HKG28" (pos=<10220.548828, 6.084842, 1629.344604>)
+15:17:8 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "" (pos=<10224.546875, -17.770498, 1622.987183>)
+15:17:9 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "" (pos=<10224.546875, -17.770498, 1622.987183>)
+15:19:33 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Mag_AK74_45Rnd" (pos=<10220.676758, 6.066151, 1629.613892>)
+15:27:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_SRSA2)
+15:27:27 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_SRSA2_10rnd)
+15:27:37 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_TacticalSuppressor)
+15:27:43 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_HarvesterSuppressor)
+15:27:51 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M1Garand_Suppressor)
+15:27:52 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_BarrettM82Suppressor)
+15:27:53 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_TheFix_Suppressor)
+15:28:6 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_OspreySuppressor)
+15:28:7 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_MK23_Suppressor)
+15:28:9 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_LegionSuppressor)
+15:28:10 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_CorduraSuppressor_Black)
+15:28:29 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_CS5_Suppressor)
+15:28:30 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M200_Suppressor)
+15:28:30 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M200_Suppressor)
+15:28:30 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M200_Suppressor)
+15:28:42 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_SRSA2_10rnd)
+15:29:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M96)
+15:29:57 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_Mag_M96_5rnd)
+15:30:58 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "BO_M96" (pos=<10231.790039, 6.142705, 1622.376587>)
+15:31:8 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (BO_M200_Black)
+15:39:7 | Player "TEACRUMPET5" (steamId=76561199437572164) initiated disconnect process...

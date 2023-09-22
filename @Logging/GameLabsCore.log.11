@@ -1,0 +1,12 @@
+************************** 2023-09-20T17:06:12+00:00 **************************
+2023-09-20T17:06:35+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-09-20T17:06:36+00:00 | [INFO	] Experimental speed check is enabled
+2023-09-20T17:06:37+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2023-09-20T18:06:38+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-09-20T18:06:38+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-09-20T18:06:38+00:00 | [WARN	] RegisterAsync re-authorized
+2023-09-20T19:06:43+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-09-20T19:06:43+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-09-20T19:06:43+00:00 | [WARN	] RegisterAsync re-authorized
+2023-09-20T19:40:09+00:00 | [INFO	] (Reporter) Disabled
+2023-09-20T19:40:09+00:00 | [INFO	] (Core) Attempting graceful exit

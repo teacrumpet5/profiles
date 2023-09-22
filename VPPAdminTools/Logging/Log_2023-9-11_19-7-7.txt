@@ -1,0 +1,213 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-9-11_19-7-7
+====================================================================================
+19:7:7 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:7:7 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:7:7 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:7:7 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:7:7 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:7:7 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:7:7 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:7:7 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:7:7 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:7:7 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:7:7 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:7:7 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:7:7 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:7:7 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:7:7 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:7:7 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:7:7 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:7:7 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:7:7 | [PermissionManager] Adding Super Admin (76561199044127723)
+19:7:7 | [PermissionManager] Adding Super Admin (76561198138233493)
+19:7:7 | [PermissionManager] Adding Super Admin (76561199437572164)
+19:7:7 | [PermissionManager] Loaded UserGroups.json
+19:7:7 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:7:7 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:7:7 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:7:7 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:7:7 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:7:7 | Building Sets Loaded: 0
+19:7:7 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+19:7:7 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:10:55 | Player "FoXy" (steamId=76561199135779470) connected to server!
+19:14:39 | Player "TEACRUMPET5" (steamId=76561199437572164) connected to server!
+19:16:19 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:17:9 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:17:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewasdSet.vpp
+19:17:50 | "TEACRUMPET5" (steamid=76561199437572164) created new building set (NewasdSet)
+19:18:9 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "" (pos=<3684.192871, 402.744995, 6010.015625>)
+19:18:12 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "TreeHard_t_PiceaAbies_3f" (pos=<3679.781006, 413.361664, 6027.471191>)
+19:18:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewasdSet.vpp
+19:18:39 | [BuildingSetManager] Saving & Reloading Building Set:NewasdSet
+19:18:39 | "TEACRUMPET5" (steamid=76561199437572164) updated building set (NewasdSet)
+19:18:39 | [BuildingSetManager] Deleted file: NewasdSet
+19:18:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewasdSet.vpp
+19:18:48 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Land_Mil_Barracks5" (pos=<3686.415527, 407.674652, 5982.148926>)
+19:19:4 | "TEACRUMPET5" (steamid=76561199437572164) deleted building set (NewasdSet)
+19:20:39 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:20:42 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:20:56 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:21:43 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "ExpansionQuestBoardLarge" (pos=<3706.610107, 403.250000, 5983.399902>)
+19:21:45 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "ExpansionQuestNPCAIDenis" (pos=<3706.066162, 402.012421, 5987.393555>)
+19:23:12 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<5091.109863, 9.500000, 2376.649902>)
+19:23:12 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=5091.11,0,2376.65)
+19:23:20 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:23:25 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:23:26 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:23:36 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:23:39 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:26:43 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:26:53 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<943.345825, 169.131912, 5912.631348>)
+19:27:13 | Player "ratnik" (steamId=76561198312328426) connected to server!
+19:27:14 | "TEACRUMPET5" (steamid=76561199437572164) deleted objects using ESP
+19:27:21 | Player "Fitz" (steamId=76561199354831182) connected to server!
+19:27:38 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<879.737000, 154.682846, 5501.270508>)
+19:27:38 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:28:35 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Spotlight)
+19:28:41 | "TEACRUMPET5" (steamid=76561199437572164) Spawned Item: (Spotlight)
+19:29:7 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:29:26 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:29:32 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:33 | "TEACRUMPET5" (steamid=76561199437572164) healed player (steamid=76561199437572164)
+19:29:37 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:29:51 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<1200.325317, 149.891434, 6268.544922>)
+19:29:51 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:30:4 | Player "Fitz" (steamId=76561199354831182) initiated disconnect process...
+19:30:5 | Player "Fitz" (steamId=76561199354831182) disconnected early from server (EXIT NOW).
+19:30:54 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:31:1 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<2398.149170, 299.452454, 6165.121582>)
+19:31:1 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:31:15 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:31:29 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<3710.687012, 434.567780, 5991.604980>)
+19:31:29 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:31:31 | Player "Timberwolf581" (steamId=76561198035767119) connected to server!
+19:34:20 | Player "ratnik" (steamId=76561198312328426) initiated disconnect process...
+19:34:22 | Player "ratnik" (steamId=76561198312328426) disconnected early from server (EXIT NOW).
+19:34:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4454.625977, 5.742913, 2303.341797>)
+19:34:47 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4454.509766, 7.334354, 2303.156982>)
+19:34:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4454.420898, 8.920899, 2303.022217>)
+19:34:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4454.342285, 9.405209, 2302.753662>)
+19:34:48 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4454.155273, 9.918842, 2302.221924>)
+19:34:50 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:34:51 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:35:15 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4475.117188, 235.168091, 4629.617676>)
+19:36:23 | Player "ratnik" (steamId=76561198312328426) connected to server!
+19:37:54 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:37:58 | "TEACRUMPET5" (steamid=76561199437572164) toggled godmode
+19:38:14 | "76561199437572164" (steamid=76561199437572164) teleported to (pos=<5376.899902, 15.238818, 2187.010010>)
+19:38:14 | "TEACRUMPET5": (steamid=76561199437572164) teleported to (pos=5376.9,0,2187.01)
+19:38:21 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:38:25 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:39:42 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5002.551758, 9.490517, 2400.601318>)
+19:41:59 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5618.218750, 7.309993, 2077.868896>)
+19:42:33 | "TEACRUMPET5" (steamid=76561199437572164) deleted object "Land_Container_1Mo" (pos=<6528.988770, 7.180837, 2488.874512>)
+19:42:39 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<6520.603027, 6.000036, 2504.360596>)
+19:42:42 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:42:56 | Player "Wabbit" (steamId=76561198033875905) connected to server!
+19:43:34 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:44:4 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5535.288574, 92.610947, 2591.540771>)
+19:44:4 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:44:7 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:44:11 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<5537.980957, 94.509308, 2589.490479>)
+19:44:11 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:48:7 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:48:27 | "TEACRUMPET5" (steamid=76561199437572164) teleported to crosshair (pos=<4893.883301, 11.945784, 2450.810791>)
+19:48:27 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:49:26 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561198035767119)
+19:49:26 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561198312328426)
+19:49:26 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561198033875905)
+19:49:26 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561199437572164)
+19:49:26 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561199135779470)
+19:49:27 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561198035767119)
+19:49:27 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561198312328426)
+19:49:27 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561198033875905)
+19:49:27 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561199437572164)
+19:49:27 | "TEACRUMPET5" (steamid=76561199437572164) just updated a health stat on (steamid=76561199135779470)
+19:51:44 | Player "Wabbit" (steamId=76561198033875905) disconnected from server.
+19:51:44 | Player "Wabbit" (steamId=76561198033875905) initiated disconnect process...
+19:54:20 | "TEACRUMPET5" (steamid=76561199437572164) toggled freecam
+19:55:6 | Player "TEACRUMPET5" (steamId=76561199437572164) initiated disconnect process...
+19:55:7 | Player "TEACRUMPET5" (steamId=76561199437572164) disconnected early from server (EXIT NOW).
+20:28:16 | Player "ratnik" (steamId=76561198312328426) initiated disconnect process...
+20:28:16 | Player "FoXy" (steamId=76561199135779470) initiated disconnect process...
+20:28:16 | Player "Timberwolf581" (steamId=76561198035767119) initiated disconnect process...

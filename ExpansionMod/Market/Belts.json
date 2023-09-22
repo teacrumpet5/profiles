@@ -1,0 +1,134 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "IMP_Belt_BagBelt_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_BagBelt_Green",
+                "IMP_Belt_BagBelt_Tan",
+                "IMP_Belt_BagBelt_UCP",
+                "IMP_Belt_BagBelt_EMR",
+                "IMP_Belt_BagBelt_NWU",
+                "IMP_Belt_BagBelt_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Belt_LegHolster_NWU",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_LegHolster_UCP",
+                "IMP_Belt_LegHolster_EMR",
+                "IMP_Belt_LegHolster_MARPAT",
+                "IMP_Belt_LegHolster_Green",
+                "IMP_Belt_LegHolster_Tan",
+                "IMP_Belt_LegHolster_Black"
+            ]
+        },
+        {
+            "ClassName": "IMP_BeltSystem_Small_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_BeltSystem_Small_Green",
+                "IMP_BeltSystem_Small_UCP",
+                "IMP_BeltSystem_Small_EMR",
+                "IMP_BeltSystem_Small_NWU",
+                "IMP_BeltSystem_Small_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Belt_BeltSystem_Medium_Tan",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_BeltSystem_Medium_Black",
+                "IMP_Belt_BeltSystem_Medium_Green",
+                "IMP_Belt_BeltSystem_Medium_UCP",
+                "IMP_Belt_BeltSystem_Medium_EMR",
+                "IMP_Belt_BeltSystem_Medium_NWU"
+            ]
+        },
+        {
+            "ClassName": "IMP_Belt_BeltSystem_Large_Tan",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_BeltSystem_Large_Black",
+                "IMP_Belt_BeltSystem_Large_Green",
+                "IMP_Belt_BeltSystem_Large_NWU",
+                "IMP_Belt_BeltSystem_Large_MARPAT",
+                "IMP_Belt_BeltSystem_Large_UCP",
+                "IMP_Belt_BeltSystem_Large_EMR"
+            ]
+        },
+        {
+            "ClassName": "IMP_Belt_VX600_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_VX600_Green",
+                "IMP_Belt_VX600_Tan",
+                "IMP_Belt_VX600_UCP",
+                "IMP_Belt_VX600_EMR",
+                "IMP_Belt_VX600_NWU",
+                "IMP_Belt_VX600_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Belt_MilitaryBelt_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_MilitaryBelt_Green",
+                "IMP_Belt_MilitaryBelt_Tan",
+                "IMP_Belt_MilitaryBelt_UCP",
+                "IMP_Belt_MilitaryBelt_EMR",
+                "IMP_Belt_MilitaryBelt_NWU",
+                "IMP_Belt_MilitaryBelt_MARPAT"
+            ]
+        }
+    ]
+}

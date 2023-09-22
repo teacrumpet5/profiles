@@ -1,0 +1,380 @@
+{
+    "disableMarkers": 0,
+    "disableNotifications": 0,
+    "minPlayers": 0,
+    "startMsg": "A cardrop will be deployed at ",
+    "dropMsg": "The plane droped the cargo at ",
+    "startEventOne": 400,
+    "startEventTwo": 2200,
+    "startEventThree": 4000,
+    "startEventFour": 5800,
+    "startEventFive": 7600,
+    "startEventSix": 9400,
+    "startEventSeven": 11200,
+    "startEventEight": 13000,
+    "startEventNine": 14800,
+    "startEventTen": 16600,
+    "deleteTimer": 1250,
+    "fallSpeed": 10.0,
+    "spawnRadius": 2.0,
+    "zombiesNumber": 25,
+    "zombiesRadius": 75.0,
+    "zombiesList": [
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer"
+    ],
+    "lootNumber": 6,
+    "lootList": [
+        "CanisterGasoline",
+        "DNA_KeyCard_Blue",
+        "DNA_KeyCard_Green",
+        "DNA_KeyCard_Yellow",
+        "BO_AlligatorSniper",
+        "BO_M82A1_RedTiger",
+        "BO_M200_Grey",
+        "BO_FG42M",
+        "BO_AS50_BlueTiger",
+        "BO_AS50_Fall",
+        "BO_PKP_Black",
+        "BO_PKP_FDE",
+        "BO_AlligatorSniper",
+        "BO_M82A1_RedTiger",
+        "BO_M200_Grey",
+        "BO_FG42M",
+        "BO_AS50_BlueTiger",
+        "BO_AS50_Fall",
+        "BO_PKP_Black",
+        "BO_PKP_FDE",
+        "BO_MCXSpear_Tan",
+        "TT_Collectables_Accum",
+        "TT_Collectables_Advwrench",
+        "TT_Collectables_Airfilter",
+        "TT_Collectables_Antique_teapot",
+        "TT_Collectables_Beardoil",
+        "TT_Collectables_Bloodset",
+        "TT_Collectables_BTC",
+        "TT_Collectables_BTC",
+        "TT_Collectables_BTC",
+        "TT_Collectables_Carbattery",
+        "TT_Collectables_Cat",
+        "TT_Collectables_chain",
+        "TT_Collectables_Chiken",
+        "TT_Collectables_Coffe",
+        "TT_Collectables_CPU",
+        "TT_Collectables_Cyclon",
+        "TT_Collectables_Defibrilator",
+        "TT_Collectables_Accum",
+        "TT_Collectables_Advwrench",
+        "TT_Collectables_Airfilter",
+        "TT_Collectables_Antique_teapot",
+        "TT_Collectables_Beardoil",
+        "TT_Collectables_Bloodset",
+        "TT_Collectables_BTC",
+        "TT_Collectables_BTC",
+        "TT_Collectables_BTC",
+        "TT_Collectables_Carbattery",
+        "TT_Collectables_Cat",
+        "TT_Collectables_chain",
+        "TT_Collectables_Chiken",
+        "TT_Collectables_Coffe",
+        "TT_Collectables_CPU",
+        "TT_Collectables_Cyclon",
+        "TT_Collectables_Defibrilator",
+        "BO_M300",
+        "BO_AX50_Black",
+        "BO_AX50_RedTiger",
+        "BO_AX50_BlueTiger",
+        "CP_CannabisBrickSkunk",
+        "CP_CannabisSeedsPackSkunk",
+        "CP_CannabisSeedsPackBlue",
+        "CP_CannabisBrickBlue",
+        "CP_CannabisSeedsPackKush",
+        "CP_CannabisBrickKush",
+        "CP_CannabisSeedsPackStardawg",
+        "CP_CannabisBrickStardawg",
+        "CP_CannabisBrickFuture",
+        "CP_CannabisSeedsPackS1",
+        "CP_CannabisBrickS1",
+        "CP_CannabisSeedsPackNomad",
+        "CP_CannabisBrickNomad",
+        "CP_CannabisBrickBlackFrost",
+        "CP_CannabisSeedsPackBlackFrost",
+        "CP_CannabisBrickBlue",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "NailBox",
+        "BBP_Cement",
+        "BBP_Cement",
+        "BBP_Cement",
+        "BBP_Cement",
+        "BBP_Cement",
+        "BBP_Mortar_Mix",
+        "BBP_Mortar_Mix",
+        "BBP_Mortar_Mix",
+        "BBP_Mortar_Mix",
+        "BBP_Mortar_Mix",
+        "BBP_Mortar_Mix"
+    ],
+    "spawnPositions": [
+        {
+            "locationName": "Kranostav Airfield 1",
+            "position": [
+                12393.866211,
+                140.012466,
+                12431.739258
+            ]
+        },
+        {
+            "locationName": "Kranostav Airfield 2",
+            "position": [
+                12155.030273,
+                140.000000,
+                12701.395508
+            ]
+        },
+        {
+            "locationName": "Kranostav Airfield 3",
+            "position": [
+                12155.030273,
+                140.000000,
+                12701.395508
+            ]
+        },
+        {
+            "locationName": "Tisy Landing Pads",
+            "position": [
+                1652.242554,
+                451.616913,
+                14056.114258
+            ]
+        },
+        {
+            "locationName": "Tisy Radar Station",
+            "position": [
+                620.575928,
+                501.765961,
+                13640.078125
+            ]
+        },
+        {
+            "locationName": "VMC",
+            "position": [
+                4635.759766,
+                321.275421,
+                8341.580078
+            ]
+        },
+        {
+            "locationName": "NWAF Runway",
+            "position": [
+                4617.737305,
+                339.012421,
+                9960.564453
+            ]
+        },
+        {
+            "locationName": "NWAF Tent City",
+            "position": [
+                4207.234863,
+                338.251221,
+                10950.930664
+            ]
+        },
+        {
+            "locationName": "NWAF Vybor Entrance",
+            "position": [
+                4442.501465,
+                335.007446,
+                9416.158203
+            ]
+        },
+        {
+            "locationName": "BALOTA AIRFIELD",
+            "position": [
+                5089.720703,
+                9.501354,
+                2367.758057
+            ]
+        },
+        {
+            "locationName": "PRISON ISLAND",
+            "position": [
+                2613.126465,
+                20.695343,
+                1306.362549
+            ]
+        },
+        {
+            "locationName": "SKALISTY ISLAND",
+            "position": [
+                13612.000000,
+                41.931034,
+                3075.320068
+            ]
+        }
+    ],
+    "vehiclesList": [
+        {
+            "name": "Audi_RS6",
+            "attachments": [
+                "Audi_RS6_Wheel_red",
+                "Audi_RS6_Wheel_red",
+                "Audi_RS6_Wheel_red",
+                "Audi_RS6_Wheel_red",
+                "Audi_RS6_Wheel_red",
+                "Audi_RS6_Doors_trunk",
+                "Audi_RS6_Doors_Hood",
+                "Audi_RS6_Doors_Driver",
+                "Audi_RS6_Doors_coDriver",
+                "Audi_RS6_Doors_cargo1",
+                "Audi_RS6_Doors_cargo2",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "BMW",
+            "attachments": [
+                "BMW_Wheel",
+                "BMW_Wheel",
+                "BMW_Wheel",
+                "BMW_Wheel",
+                "BMW_Wheel",
+                "BMW_Doors_Trunk",
+                "BMW_Doors_Hood",
+                "BMW_Doors_Driver",
+                "BMW_Doors_coDriver",
+                "BMW_Doors_cargo1",
+                "BMW_Doors_cargo2",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "BMW_X5",
+            "attachments": [
+                "BMW_X5_Wheel",
+                "BMW_X5_Wheel",
+                "BMW_X5_Wheel",
+                "BMW_X5_Wheel",
+                "BMW_X5_Wheel",
+                "BMW_X5_Doors_trunk",
+                "BMW_X5_Doors_Hood",
+                "BMW_X5_Doors_Driver",
+                "BMW_X5_Doors_coDriver",
+                "BMW_X5_Doors_cargo1",
+                "BMW_X5_Doors_cargo2",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "BRDM",
+            "attachments": [
+                "BRDM_Wheel",
+                "BRDM_Wheel",
+                "BRDM_Wheel",
+                "BRDM_Wheel",
+                "BRDM_Wheel",
+                "BRDM_Doors_hood",
+                "BRDM_Doors_trunk",
+                "BRDM_Doors_Driver",
+                "BRDM_Doors_coDriver",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "Chevrolet_Camaro",
+            "attachments": [
+                "Chevrolet_Camaro_Wheel",
+                "Chevrolet_Camaro_Wheel",
+                "Chevrolet_Camaro_Wheel",
+                "Chevrolet_Camaro_Wheel",
+                "Chevrolet_Camaro_Wheel",
+                "Chevrolet_Camaro_Doors_hood",
+                "Chevrolet_Camaro_Doors_trunk",
+                "Chevrolet_Camaro_Doors_Driver",
+                "Chevrolet_Camaro_Doors_coDriver",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "ChevroletCorvette",
+            "attachments": [
+                "ChevroletCorvette_Wheel",
+                "ChevroletCorvette_Wheel",
+                "ChevroletCorvette_Wheel",
+                "ChevroletCorvette_Wheel",
+                "ChevroletCorvette_Wheel",
+                "ChevroletCorvette_Doors_Hood",
+                "ChevroletCorvette_Doors_Trunk",
+                "ChevroletCorvette_Doors_Driver",
+                "ChevroletCorvette_Doors_coDriver",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator"
+            ]
+        },
+        {
+            "name": "Buggy",
+            "attachments": [
+                "Buggy_Wheel_offroad",
+                "Buggy_Wheel_offroad",
+                "Buggy_Wheel_offroad",
+                "Buggy_Wheel_offroad",
+                "Buggy_Wheel_offroad",
+                "Buggy_Doors_Driver",
+                "Buggy_Doors_coDriver",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery"
+            ]
+        },
+        {
+            "name": "Mercedes_S900_Brabus_grey",
+            "attachments": [
+                "Mercedes_S900_Brabus_doors_cargo1_grey",
+                "Mercedes_S900_Brabus_doors_hood_grey",
+                "Mercedes_S900_Brabus_doors_trunk_grey",
+                "Mercedes_S900_Brabus_doors_cargo2_grey",
+                "Mercedes_S900_Brabus_doors_Driver_grey",
+                "Mercedes_S900_Brabus_doors_coDriver_grey",
+                "Mercedes_S900_Brabus_wheel",
+                "Mercedes_S900_Brabus_wheel",
+                "Mercedes_S900_Brabus_wheel",
+                "Mercedes_S900_Brabus_wheel",
+                "Mercedes_S900_Brabus_wheel",
+                "HeadlightH7",
+                "HeadlightH7",
+                "SparkPlug",
+                "CarBattery"
+            ]
+        }
+    ],
+    "g_CardropCount": 0
+}
